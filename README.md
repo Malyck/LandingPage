@@ -14,6 +14,7 @@ This project is a landing page that showcases a product, service, or any other c
 
 ## Demo
 
+![Untitled](https://github.com/Malyck/landingPage/assets/42318084/268be1aa-861c-4330-97bd-77d2ce58f43b)
 
 
 [(Back to top)](#table-of-contents)
